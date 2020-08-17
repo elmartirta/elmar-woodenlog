@@ -9,7 +9,7 @@ Minimalist log node messages module to add colors for console.log for specific t
   npm install elmar-woodenlog --save
 ```
 
-##Usage
+## Usage
 
 ```js
 var woodenlog = require('elmar-woodenlog')
@@ -26,5 +26,5 @@ woodenlog.error("just log!");
   npm test
 ```
 
-##Release History
+## Release History
 *1.0.0 Initial release
