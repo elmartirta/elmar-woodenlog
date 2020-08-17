@@ -1,0 +1,35 @@
+{
+  "name": "elmar-woodenlog",
+  "version": "1.0.1",
+  "description": "Minimalist log node messages module",
+  "main": "index.js",
+  "directories": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "dependencies": {
+    "ansi-styles": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elmartirta/elmar-woodenlog.git"
+  },
+  "keywords": [
+    "log",
+    "woodenlog",
+    "log",
+    "messages"
+  ],
+  "author": "Elmar Tirta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmartirta/elmar-woodenlog/issues"
+  },
+  "homepage": "https://github.com/elmartirta/elmar-woodenlog#readme"
+}
