@@ -26,5 +26,5 @@ woodenlog.error("just log!");
   npm test
 ```
 
-#Release History
+##Release History
 *1.0.0 Initial release
